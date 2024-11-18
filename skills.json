@@ -1,0 +1,39 @@
+[
+
+    {
+        "name": "chat gpt",
+        "icon": "https://img.icons8.com/color/48/000000/ai.png"
+    },
+    {
+        "name": "capcut",
+        "icon": "https://img.icons8.com/color/48/000000/video logo.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "netflix",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/netflix.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Canva",
+        "icon": "https://img.icons8.com/color/48/000000/canva.png"
+    }    
+]
